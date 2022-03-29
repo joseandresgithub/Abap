@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_TABL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD02V>
+    <TABNAME>SBC400CUST</TABNAME>
+    <TABCLASS>INTTAB</TABCLASS>
+   </DD02V>
+   <DD03P_TABLE>
+    <DD03P>
+     <FIELDNAME>ID</FIELDNAME>
+     <ROLLNAME>S_CUSTOMER</ROLLNAME>
+     <ADMINFIELD>0</ADMINFIELD>
+     <COMPTYPE>E</COMPTYPE>
+    </DD03P>
+    <DD03P>
+     <FIELDNAME>NAME</FIELDNAME>
+     <ROLLNAME>S_CUSTNAME</ROLLNAME>
+     <ADMINFIELD>0</ADMINFIELD>
+     <COMPTYPE>E</COMPTYPE>
+    </DD03P>
+   </DD03P_TABLE>
+   <I18N_LANGS>
+    <LANGU>4</LANGU>
+    <LANGU>5</LANGU>
+    <LANGU>6</LANGU>
+    <LANGU>B</LANGU>
+    <LANGU>D</LANGU>
+    <LANGU>E</LANGU>
+    <LANGU>G</LANGU>
+    <LANGU>R</LANGU>
+    <LANGU>W</LANGU>
+    <LANGU>Z</LANGU>
+    <LANGU>d</LANGU>
+   </I18N_LANGS>
+   <DD02_TEXTS>
+    <item>
+     <DDLANGUAGE>4</DDLANGUAGE>
+     <DDTEXT>BC400: Customer Number and Customer Name</DDTEXT>
+    </item>
+    <item>
+     <DDLANGUAGE>5</DDLANGUAGE>
+     <DDTEXT>BC400: Customer Number and Customer Name</DDTEXT>
+    </item>
+    <item>
+     <DDLANGUAGE>6</DDLANGUAGE>
+     <DDTEXT>BC400: Customer Number and Customer Name</DDTEXT>
+    </item>
+    <item>
+     <DDLANGUAGE>B</DDLANGUAGE>
+     <DDTEXT>BC400: Customer Number and Customer Name</DDTEXT>
+    </item>
+    <item>
+     <DDLANGUAGE>D</DDLANGUAGE>
+     <DDTEXT>BC400: Kundennummer und Kundenname</DDTEXT>
+    </item>
+    <item>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DDTEXT>BC400: Customer Number and Customer Name</DDTEXT>
+    </item>
+    <item>
+     <DDLANGUAGE>G</DDLANGUAGE>
+     <DDTEXT>BC400: Customer Number and Customer Name</DDTEXT>
+    </item>
+    <item>
+     <DDLANGUAGE>R</DDLANGUAGE>
+     <DDTEXT>BC400: Customer Number and Customer Name</DDTEXT>
+    </item>
+    <item>
+     <DDLANGUAGE>W</DDLANGUAGE>
+     <DDTEXT>BC400: Customer Number and Customer Name</DDTEXT>
+    </item>
+    <item>
+     <DDLANGUAGE>Z</DDLANGUAGE>
+     <DDTEXT>BC400: Customer Number and Name</DDTEXT>
+    </item>
+    <item>
+     <DDLANGUAGE>d</DDLANGUAGE>
+     <DDTEXT>BC400: Customer Number and Customer Name</DDTEXT>
+    </item>
+   </DD02_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
